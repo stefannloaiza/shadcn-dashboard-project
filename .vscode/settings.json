@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "files.autoSaveWhenNoErrors": true,
+    "java.saveActions.organizeImports": true,
+    "editor.foldingImportsByDefault": true,
+    "editor.codeActions.triggerOnFocusChange": true
+}
